@@ -30,6 +30,14 @@ We understand the challenges of staying connected in a world where conversations
 
 The Unified Social DM Checker is your gateway to harmonizing your online conversations, all in one app.
 
+Requirments :
+1) Cloud/Deployment - Heroku.
+2) Programming Language - Kotlin/Java.
+3) IDE - Android studio.
+4) Framework - a] Flutter.
+               b] Figma.
+
+
 
 
 
